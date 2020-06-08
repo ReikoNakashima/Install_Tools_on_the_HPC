@@ -14,5 +14,3 @@ cd bamUtil
 make all
 ```
 
-
-
