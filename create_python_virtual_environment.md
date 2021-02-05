@@ -21,7 +21,7 @@ Then, activate.
 source .venv/bin/activate
 ```
 
-Install your packages.
+Install your packages such as matplotlib.
 ```
 python -m pip install matplotlib --ignore-installed
 ```
