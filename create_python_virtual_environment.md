@@ -25,3 +25,8 @@ Install your packages such as matplotlib.
 ```
 python -m pip install matplotlib --ignore-installed
 ```
+
+Deactivate.
+```
+deactivate
+```
